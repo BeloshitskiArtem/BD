@@ -1,0 +1,16 @@
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormMain.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormDishesList.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormMachine.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormClient.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormRoute.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormOrder.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormSQL.resources
+c:\users\5801bap\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.FormWorkerAndAvtoList.resources
